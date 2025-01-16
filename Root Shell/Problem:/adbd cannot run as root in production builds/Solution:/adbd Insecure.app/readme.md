@@ -1,6 +1,10 @@
+guide:
+- https://stackoverflow.com/questions/25271878/android-adbd-cannot-run-as-root-in-production-builds
+
+# Discuss:
 https://xdaforums.com/t/2014-11-10-root-adbd-insecure-v2-00.1687590/
 
-# Comment:
+## Comment:
 [Jul 11, 2024](https://xdaforums.com/t/2014-11-10-root-adbd-insecure-v2-00.1687590/page-15#post-89605771)
 >Here is what I have discovered:
 >
